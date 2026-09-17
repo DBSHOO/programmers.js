@@ -1,2 +1,20 @@
-# programmers.js
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 💻 Baekjoon Solutions
+
+> 문제를 풀면서 쌓아가는 알고리즘 풀이 기록입니다.
+
+이 저장소는 **Baekjoon Online Judge** 문제 풀이를 자동으로 기록하기 위해 사용합니다.
+
+## 📌 About
+
+- 알고리즘 문제 풀이 기록
+- 풀이 코드 자동 업로드
+- 문제를 풀며 부족한 부분을 확인하고 보완
+
+## 🎯 Goal
+
+문제 풀이를 꾸준히 이어가면서
+자료구조와 알고리즘에 대한 이해를 쌓는 것을 목표로 합니다.
+
+---
+
+**Solve → Review → Improve**
